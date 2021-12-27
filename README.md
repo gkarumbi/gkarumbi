@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to get hired!!
 - 📫 How to reach me: (+254) 722 452 772 / gkarumbi@gmail.com
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: I'm a former reality TV star
+- ⚡ Fun fact: I'm make origami art pieces!!
 
 
 ### Connect with me:
