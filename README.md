@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<-- <details>
+< <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="BlessTheBoy's Github Stats" src="https://github-readme-stats.blesstheboy.vercel.app/api?username=BlessTheBoy&show_icons=true&hide_border=true&hide=stars,contribs" />
 
-</details> -->
+</details> >
 
 [facebook]: https://web.facebook.com/george.karumbi.75
 [twitter]: https://twitter.com/gkarumbi
