@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 
 <br />
+#### Work 💼
+
+- :email: gkarumbi@gmail.com
+- Portfolio: https://george-karumbi-portfolio.herokuapp.com/
+
+<br/>
 
 ### Languages and Tools:
 
