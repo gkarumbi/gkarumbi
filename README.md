@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: (+254) 722 452 772 / gkarumbi@gmail.com
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I'm make origami art pieces!!
+- email: gkarumbi@gmail.com
+- Portfolio: https://george-karumbi-portfolio.herokuapp.com/
 
 
 ### Connect with me:
@@ -24,12 +26,9 @@ Here are some ideas to get you started:
 
 
 <br />
-#### Work 💼
 
-- :email: gkarumbi@gmail.com
-- Portfolio: https://george-karumbi-portfolio.herokuapp.com/
 
-<br/>
+
 
 ### Languages and Tools:
 
