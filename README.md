@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on more Front-end projects!!
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on opensource projects!!
+- 🔭 I’m currently working on more web3 projects!!
+- 🌱 I’m currently learning Solidity and learning how to build projects on the DeFI/CeFI space!!
+- 👯 I’m looking to collaborate on web3 projects!!
 - 🤔 I’m looking to get hired!!
 - 📫 How to reach me: (+254) 722 452 772 / gkarumbi@gmail.com
 - 😄 Pronouns: He/They
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png" />
 
 <br />
 <br />
